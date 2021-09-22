@@ -32,7 +32,7 @@ From this map we should be able to see distributions of best restarutants in Gre
 ### Food categories in top rated restaurants
 ![image](https://user-images.githubusercontent.com/16920899/134223587-cf54a772-f3f2-4690-bd46-876684c24301.png)
 
-I would do either a bar chart or a pie chart to show distributions of food categories among these top rated restaurants. A taller bar in a bar chart, or a larger area in a pie, represent more restaurants serve this type of food. From these visualization we should be able to tell what types of food are served in these best restaurants, and what are the most famous categories (question 3).
+I would do either a bar chart or a pie chart to show distributions of food categories among these top rated restaurants. A taller bar in a bar chart, or a larger area in a pie, represents more restaurants serving this type of food. From these visualization we should be able to tell what types of food are served in these best restaurants, and what are the most famous food categories (question 3).
 
 ## Open Questions
 
