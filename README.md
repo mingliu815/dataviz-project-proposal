@@ -1,40 +1,40 @@
-# Data Visualization Project
+# Data Visualization Project (draft)
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is from <a title="Click here for details!" href="https://www.yelp.com/dataset"><img width="70" alt="Yelp Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/256px-Yelp_Logo.svg.png"></a> 
+
+I extracted all current-opening restaurants with 4 or above star ratings in Greater Boston area. Gist link can be found [here](https://gist.github.com/mingliu815/e5f4b3ff7dfeae8a9a2924b121c37468).
+
+I am interested in exploring great food around me and I am sure that data visualization can do me a favor! <img width="50" src="https://openmoji.org/data/color/svg/1F37B.svg">
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a bar chart and it shows the top 10 cities with best restaurants in Greater Boston area.
+[![image](https://user-images.githubusercontent.com/16920899/134221241-dd7a3df4-bee5-4923-97e1-b026d8efeebb.png)](https://vizhub.com/mingliu815/a73f54d4d5ff4d3199a8ce6817b50693)
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
-
+We can see that Boston has the most best restaurants (no doubt). Cambridge and Somerville also have over 100 best restaurants.
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * What cities have most great restaurants? This could be explained by my prototype bar chart.
+ * It makes sense that Boston has the most best restaurants, but how about it's neighbors? Are all top cities around Boston, or are there any other cities that not very near to Boston but still have many great restaurants?
+ * In all great restaurants, what types of food are served? What are famous food categories?
+ * Is there any relation between restaurants ratings vs. review counts?
 
 ## Sketches
+### Map of best restaurants in Greater Boston area
+![image](https://user-images.githubusercontent.com/16920899/134223648-98a37153-d4fc-448a-81d3-dc6ba7371fa2.png)
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+From this map we should be able to see distributions of best restarutants in Greater Boston area. I would use color shade (or the circle size) to represent the amount of restarutants in a city. The darker color (or a larger circle) means more best restarutants. Therefore we can tell if neighbors of Boston have more best restarutants than other places, and if there are any cities that not very close to Boston and have many great food (question 2).
+
+### Food categories in top rated restaurants
+![image](https://user-images.githubusercontent.com/16920899/134223587-cf54a772-f3f2-4690-bd46-876684c24301.png)
+
+I would do either a bar chart or a pie chart to show distributions of food categories among these top rated restaurants. A taller bar in a bar chart, or a larger area in a pie, represent more restaurants serve this type of food. From these visualization we should be able to tell what types of food are served in these best restaurants, and what are the most famous categories (question 3).
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+* I am not sure how to deal with the map. I found a MA state map and was able to successfully show it up, but I was not sure how to color it, or put circles on it using data from here. I tried to play with sample code of adding circles of population on world map, but failed as I was not sure how to customize it based on my needs, especially there is no projection thing for the state map, I think..? Also there are many states don't have any data, and I was not sure how to deal with these missings on the map.
+* I haven't figure out a best way to visualize relations between restaurants ratings vs. review counts (question 4). I did a [scatter plot](https://vizhub.com/mingliu815/7146aad892d64c95844fa6d889cf78df) before while I don't think that really makes sense.
