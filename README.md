@@ -36,5 +36,6 @@ I would do either a bar chart or a pie chart to show distributions of food categ
 
 ## Open Questions
 
-* I am not sure how to deal with the map. I found a MA state map and was able to successfully show it up, but I was not sure how to color it, or put circles on it using data from here. I tried to play with sample code of adding circles of population on world map, but failed as I was not sure how to customize it based on my needs, especially there is no projection thing for the state map, I think..? Also there are many states don't have any data, and I was not sure how to deal with these missings on the map.
+* I am not sure how to deal with the map. I found a MA state map and was able to successfully show it up, but I was not sure how to color it, or put circles on it using data from here. I tried to play with sample code of adding circles of population on world map, but failed as I was not sure how to customize it based on my needs, especially there is no projection thing for the state map, I think..? 
+* Also there are many states don't have any data, as the map is for the whole state while I only have data about Greater Boston area. I was not sure how to deal with these missings on the map.
 * I haven't figure out a best way to visualize relations between restaurants ratings vs. review counts (question 4). I did a [scatter plot](https://vizhub.com/mingliu815/7146aad892d64c95844fa6d889cf78df) before while I don't think that really makes sense.
