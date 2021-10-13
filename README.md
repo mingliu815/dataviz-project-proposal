@@ -43,7 +43,7 @@ Also I want to try to create a restaurants distribution map, like below:
 
 Instead of putting circles to represent amounts, here I would use dots to visualize the locations of the restarutants. Even better, I would try to add map tiles so that when I zoom in I can even tell which street that the restarutant is on.
 
-To answer my personal interest of seafood, I am thinking of creating a seafood only map. This would be the same map as above, just showing seafood-related restarutant!
+To answer my personal interest of seafood, I am thinking of creating a seafood only map. This would be similar as the map above, just showing seafood-related restarutant!
 
 An alternative way is a bar chart including what cities have most top-rated seafood, like below:
 ![image](https://user-images.githubusercontent.com/16920899/137206699-ab3f1b89-e376-4154-b927-4c773584a5e4.png)
@@ -58,7 +58,7 @@ There would be a menu bar of food types to choose, for example, American food, M
 
 ## Schedule of deliverables
 
-* The map would be the most challenging part so I would spend more time on this one. I expect to get maps done by the first week of November.
+* Maps would be the most challenging part so I would spend more time on this one. I expect to get maps done by the first week of November.
   * Map with circles representing amount of restaurants, by week 8.
   * Map with dots representing locations of restaurants, by week 9.
   * Try to add map tiles on the second map and polish maps, by week 10.
