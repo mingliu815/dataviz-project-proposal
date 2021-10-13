@@ -15,7 +15,7 @@ The following tasks and questions will drive the visualization and interaction d
  * What cities have most great restaurants? 
  * It makes sense that Boston has the most best restaurants, but how about it's neighbors? Are all top cities around Boston, or are there any other cities that not very near to Boston but still have many great restaurants?
  * In all great restaurants, what types of food are served? What are famous food categories?
- * In each city, what types of food are served and what are famous food categories?
+ * Given a food type of interests, what cities have the best restaurants serving this kind of food?
  * Personal interest: where to get best seafood?! <img width="50" src="https://openmoji.org/data/color/svg/1F980.svg">
 
 ## Prototypes
@@ -23,13 +23,13 @@ The following tasks and questions will drive the visualization and interaction d
 My current prototypes includes a bar chart of top cities with best restaurants in Greater Boston area.
 [![image](https://user-images.githubusercontent.com/16920899/137068326-1e804bb3-7e2c-4ecd-89b1-6123ae6a2501.png)](https://vizhub.com/mingliu815/a73f54d4d5ff4d3199a8ce6817b50693)
 
-We can see that Boston has the most best restaurants (no doubt). Cambridge and Somerville also have over 100 top-rated restaurants.
+We can see that Boston has the most best restaurants (no doubt). Cambridge and Somerville also have over 100 top-rated restaurants. This graph can answer my question 1.
 
 I also made an interactive bar chart of food categories (in terms of regions, e.g. American food, Mexican food, etc.).
 [![image](https://user-images.githubusercontent.com/16920899/137072065-8efe69ba-1774-45b8-9880-c0e5f1f8a1ed.png)
 ](https://vizhub.com/mingliu815/05ee0a8297d24f3ba1375bd62c49d29a)
 
-From this bar chart we can tell that these top-rated restaurants serve diverse food that come from different regions. The famous food categories include American (new/traditional), Italian and Mexican food.
+From this bar chart we can tell that these top-rated restaurants serve diverse food that come from different regions. The famous food categories include American (new/traditional), Italian and Mexican food. This graph can answer my question 3.
 
 ## Sketches
 ### Map of best restaurants in Greater Boston area
@@ -46,14 +46,23 @@ Instead of putting circles to represent amounts, here I would use dots to visual
 To answer my personal interest of seafood, I am thinking of creating a seafood only map. This would be the same map as above, just showing seafood-related restarutant!
 
 An alternative way is a bar chart including what cities have most top-rated seafood, like below:
+![image](https://user-images.githubusercontent.com/16920899/137206699-ab3f1b89-e376-4154-b927-4c773584a5e4.png)
 
 
 ### Food categories in cities
 
-Interactive bar chart with menu of type of food. X axis are cities.
+I would like to create an interactive bar chart with menu of type of food, like below:
+![image](https://user-images.githubusercontent.com/16920899/137206817-db838d9f-eb2e-4594-a36d-9d46e70454a2.png)
 
+There would be a menu bar of food types to choose, for example, American food, Mexican food, Italian food, etc. When the user selects the food type of interests, the top cities of this type of food will show up as bars. The x-axis is city name, and y-axis is the number of restaurants serving this type of food. This graph is related with my question 4.
 
-## Sechdule of deliverables
+## Schedule of deliverables
 
-* The map would be the most challenging part so I would spend more time on this one. I expect to get maps done by the end of October.
+* The map would be the most challenging part so I would spend more time on this one. I expect to get maps done by the first week of November.
+  * Map with circles representing amount of restaurants, by week 8.
+  * Map with dots representing locations of restaurants, by week 9.
+  * Try to add map tiles on the second map and polish maps, by week 10.
+* Map of seafood or bar chart of seafood, week 11.
+* Interactive bar chart of food categories, week 12.
+* Polish the whole project and fix any issue, week 13, 14.
 
