@@ -43,7 +43,7 @@ Also I want to try to create a restaurants distribution map, like below:
 
 Instead of putting circles to represent amounts, here I would use dots to visualize the locations of the restarutants. Even better, I would try to add map tiles so that when I zoom in I can even tell which street that the restarutant is on.
 
-To answer my personal interest of seafood, I am thinking of creating a seafood only map. This would be similar as the map above, just showing seafood-related restarutant!
+To answer my personal interest of seafood, I am thinking of creating a seafood only map. This would be similar as the map above, just showing seafood-related restarutants!
 
 ### Food categories in cities
 
