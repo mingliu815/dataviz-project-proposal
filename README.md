@@ -33,7 +33,7 @@ From this bar chart we can tell that these top-rated restaurants serve diverse f
 
 ## Sketches
 ### Map of best restaurants in Greater Boston area
-I am think of creating a map shows number of top-rated restaurants in Greater Boston area, like below:
+I am think of creating a map to show number of top-rated restaurants in Greater Boston area, like below:
 ![image](https://user-images.githubusercontent.com/16920899/137076241-23c96dae-22fa-412a-99f7-ba5e6a21687e.png)
 
 From this map we should be able to see distributions of best restarutants in Greater Boston area. I would use circle size to represent the amount of restarutants in a city. A larger circle means more top-rated restarutants in this city. Therefore we can tell if neighbors of Boston have more best restarutants than other places, and if there are any cities that not very close to Boston and have many great food (question 2).
