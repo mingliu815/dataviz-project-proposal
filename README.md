@@ -45,10 +45,6 @@ Instead of putting circles to represent amounts, here I would use dots to visual
 
 To answer my personal interest of seafood, I am thinking of creating a seafood only map. This would be similar as the map above, just showing seafood-related restarutant!
 
-An alternative way is a bar chart including what cities have most top-rated seafood, like below:
-![image](https://user-images.githubusercontent.com/16920899/137206699-ab3f1b89-e376-4154-b927-4c773584a5e4.png)
-
-
 ### Food categories in cities
 
 I would like to create an interactive bar chart with menu of type of food, like below:
