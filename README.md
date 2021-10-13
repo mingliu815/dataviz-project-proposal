@@ -15,7 +15,7 @@ The following tasks and questions will drive the visualization and interaction d
  * What cities have most great restaurants? 
  * It makes sense that Boston has the most best restaurants, but how about it's neighbors? Are all top cities around Boston, or are there any other cities that not very near to Boston but still have many great restaurants?
  * In all great restaurants, what types of food are served? What are famous food categories?
- * Given a food type of interests, what cities have the best restaurants serving this kind of food?
+ * Given a food of interest, what cities have the best restaurants serving this kind of food?
  * Personal interest: where to get best seafood?! <img width="50" src="https://openmoji.org/data/color/svg/1F980.svg">
 
 ## Prototypes
@@ -54,7 +54,7 @@ An alternative way is a bar chart including what cities have most top-rated seaf
 I would like to create an interactive bar chart with menu of type of food, like below:
 ![image](https://user-images.githubusercontent.com/16920899/137206817-db838d9f-eb2e-4594-a36d-9d46e70454a2.png)
 
-There would be a menu bar of food types to choose, for example, American food, Mexican food, Italian food, etc. When the user selects the food type of interests, the top cities of this type of food will show up as bars. The x-axis is city name, and y-axis is the number of restaurants serving this type of food. This graph is related with my question 4.
+There would be a menu bar of food types to choose, for example, American food, Mexican food, Italian food, etc. When the user selects the food type of interest, the top cities of this type of food will show up as bars. The x-axis is city name, and y-axis is the number of restaurants serving this type of food. This graph is related with my question 4.
 
 ## Schedule of deliverables
 
