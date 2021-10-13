@@ -58,11 +58,11 @@ There would be a menu bar of food types to choose, for example, American food, M
 
 ## Schedule of deliverables
 
-* Maps would be the most challenging part so I would spend more time on this one. I expect to get maps done by the first week of November.
+* Maps would be the most challenging part so I would spend more time. I expect to get maps done by the first week of November.
   * Map with circles representing amount of restaurants, by week 8.
   * Map with dots representing locations of restaurants, by week 9.
   * Try to add map tiles on the second map and polish maps, by week 10.
 * Map of seafood or bar chart of seafood, week 11.
 * Interactive bar chart of food categories, week 12.
-* Polish the whole project and fix any issue, week 13, 14.
+* Polish the whole project and fix any issues, week 13, 14.
 
