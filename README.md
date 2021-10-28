@@ -31,6 +31,10 @@ I also made an interactive bar chart of food categories (in terms of regions, e.
 
 From this bar chart we can tell that these top-rated restaurants serve diverse food that come from different regions. The famous food categories include American (new/traditional), Italian and Mexican food. This graph can answer my question 3.
 
+**To address the feedback** from the professor of stacked bar chart, I created a stacked bar chart of type of foods in each top cities as below. I didn't include Boston for this time as it has significantly more restaurants than others. Also I added tooltips to present amounts of restaurants of a type of food in a city when you place mouse onto any section on the bar.
+
+[![image](https://user-images.githubusercontent.com/16920899/139177602-b593c612-272b-4b56-8891-2c1a8859d053.png)](https://vizhub.com/mingliu815/5829e1d28f84485fbfbc7fa9a36881cf)
+
 ## Sketches
 ### Map of best restaurants in Greater Boston area
 I am think of creating a map to show number of top-rated restaurants in Greater Boston area, like below:
