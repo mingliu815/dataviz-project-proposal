@@ -35,6 +35,13 @@ From this bar chart we can tell that these top-rated restaurants serve diverse f
 
 [![image](https://user-images.githubusercontent.com/16920899/139177602-b593c612-272b-4b56-8891-2c1a8859d053.png)](https://vizhub.com/mingliu815/5829e1d28f84485fbfbc7fa9a36881cf)
 
+### Map of best restaurants in Greater Boston area
+I created a map to show number of top-rated restaurants in Greater Boston area, which is the first one I wanted to accomplish in my sketches below.
+[![image](https://user-images.githubusercontent.com/16920899/141055782-b06bf9a5-6ea4-466d-8bca-e134abcb2c73.png)
+](https://vizhub.com/mingliu815/3b85e5f4e65d40f6883447cfc8fedea7)
+
+In this map, colors represents number of restaurants. Grey color is no data area, and red colors are cities with data (in Greater Boston area). A deeper red means a higher amount of top-rate restaurants. This is an interactive map that you can zoom in and hover over the cities of interests, and then the names and the numbers of restaurants will be shown in the tooltips.
+
 ## Sketches
 ### Map of best restaurants in Greater Boston area
 I am think of creating a map to show number of top-rated restaurants in Greater Boston area, like below:
