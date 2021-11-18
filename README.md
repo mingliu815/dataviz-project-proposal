@@ -42,12 +42,11 @@ I created a map to show number of top-rated restaurants in Greater Boston area, 
 
 In this map, colors represents number of restaurants. Grey color is no data area, and red colors are cities with data (in Greater Boston area). A deeper red means a higher amount of top-rate restaurants. This is an interactive map that you can zoom in and hover over the cities of interests, and then the names and the numbers of restaurants will be shown in the tooltips.
 
+## In process
+I am trying to add menu to select food types on the map above.
+
 ## Sketches
 ### Map of best restaurants in Greater Boston area
-I am think of creating a map to show number of top-rated restaurants in Greater Boston area, like below:
-![image](https://user-images.githubusercontent.com/16920899/137076241-23c96dae-22fa-412a-99f7-ba5e6a21687e.png)
-
-From this map we should be able to see distributions of best restarutants in Greater Boston area. I would use circle size to represent the amount of restarutants in a city. A larger circle means more top-rated restarutants in this city. Therefore we can tell if neighbors of Boston have more best restarutants than other places, and if there are any cities that not very close to Boston and have many great food (question 2).
 
 Also I want to try to create a restaurants distribution map, like below:
 ![image](https://user-images.githubusercontent.com/16920899/137077356-8feed722-6c9b-4130-a848-6f8fe6f2da8e.png)
