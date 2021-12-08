@@ -1,5 +1,8 @@
 # Data Visualization Final Project Report
 
+## Video
+Here is my video of presentation on <a title="Click here for video!" href="https://youtu.be/w4lOLrg6RBU"><img width="70" alt="Yelp Logo" src="https://logos-world.net/wp-content/uploads/2020/04/YouTube-Logo.png"></a> 
+
 ## Data
 
 The data I used to visualize for my project is from <a title="Click here for details!" href="https://www.yelp.com/dataset"><img width="70" alt="Yelp Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/256px-Yelp_Logo.svg.png"></a> 
